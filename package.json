@@ -1,0 +1,16 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "Twitch Chat Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bancho.js": "^0.9.7",
+    "prompt": "^1.1.0",
+    "prompt-question": "^5.0.2"
+  }
+}

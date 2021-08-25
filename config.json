@@ -1,0 +1,11 @@
+{
+	"host": "",
+	"port": ,
+	"username": "",
+	"password": "",
+	"apiKey": "",
+	"userId": ,
+	"limiterTimespan": 6000,
+	"limiterPrivate": 4,
+	"limiterPublic": 3
+}
